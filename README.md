@@ -1,4 +1,4 @@
 # airPods.github.io
 
 просмотреть демо:
-**[Live Demo](https://github.com/beast1309/airPods.github.io)**
+**[Live Demo](https://beast1309.github.io/airPods.github.io/)**
